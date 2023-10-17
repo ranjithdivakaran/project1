@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "35700805340",
+    "project_id": "new-project-b37e0",
+    "storage_bucket": "new-project-b37e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35700805340:android:42eac1c7c55e815a1b6e19",
+        "android_client_info": {
+          "package_name": "com.luminar.project1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35700805340-mgej5gc4sn8pbn9c2ka784v5r5e0okba.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.luminar.project1",
+            "certificate_hash": "7f3dd2461bafe51e89b80434420bf4f4d73e6b22"
+          }
+        },
+        {
+          "client_id": "35700805340-kafbud1tlssl17iim56e623ca5r41nka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCZ_gWSmc8ye8RyrVRSeUITwcfnA_t2H4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35700805340-kafbud1tlssl17iim56e623ca5r41nka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
